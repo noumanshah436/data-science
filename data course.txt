@@ -1,0 +1,48 @@
+https://colab.research.google.com/drive/1fednhzXUBIMwxbIzdDne3awQdqyfQ08i
+
+https://github.com/Nabeel110/DSC-Data-Analytics-Workshops/tree/main/Session-2
+
+http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3#
+
+********************
+
+
+pip install pandas
+
+pip install matplotlib
+
+************
+
+Go to folder where you want to open jupyter.
+hold shift and press right key and open powershel here.( or type cmd in path ) and type given:
+
+jupyter notebook
+
+********************************
+
+git --version
+
+git clone url
+
+
+
+********************************
+
+run cell     shift+Enter
+new cell     enter
+auto comp 	type st and press tab
+
+colon(;) after stat will not show output
+
+[5]  number show sequence in which cell run
+
+markdown + shift enter  ( # space text and then shift enter , become heading)
+
+
+if we want to run as in command prompt , add ! before command  
+for exampel
+
+!pip install matplotlib
+!mkdir name  (make folder in cwd)
+%lsmagic  (show all line magics and cell magics)
+%ls
